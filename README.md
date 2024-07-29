@@ -1,3 +1,15 @@
+```js
+
+let me_out_of_here = []
+const ipated = true
+
+for(i = 0; i < 5; i++) {
+  console.log(i + '.')
+}
+
+```
+
+
 # AutoPanoStitch
 [![View Automatic panorama stitcher (AutoPanoStitch) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/105850-automatic-panorama-stitcher-autopanostitch) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch)
 
